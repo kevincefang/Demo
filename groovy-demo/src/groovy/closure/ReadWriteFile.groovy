@@ -27,9 +27,6 @@ public class ReadWriteFile {
         byte[] bytes = new File("E:\\个人文件\\面试.txt").bytes
         //println bytes
 
-        def dir = "E:\\"
-        dir.eachFileRecurse {file ->
-            println file.name
-        }
+
     }
 }

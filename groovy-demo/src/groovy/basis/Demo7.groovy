@@ -9,7 +9,7 @@ class Demo7 {
      static void main(def args){
          Demo7 obj = new Demo7()
 
-         def str1 = "hello"
+         def str1 = "hello11"
          def str2 = str1
          def str3 = new String("hello")
          def str4 = "hello"
