@@ -15,9 +15,6 @@ class ClosureWithTwoParameter {
           ClosureWithTwoParameter.tellFortune({data,fortune ->
               println "Fortune for ${data} is ${fortune}"
           })
-        def baseDir = "";
-        new File(baseDir,"aa.txt").eachLine {line ->
-            println line
-        }
+
     }
 }
