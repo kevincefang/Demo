@@ -2,7 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="ed32ce27-2c00-4b0e-a040-d5391e95e2b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/groovy/basis/thread/Sleep2.groovy" afterPath="$PROJECT_DIR$/src/groovy/basis/thread/Sleep2.groovy" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/pinganfu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/FANGHAO490.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/groovy-demo.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Annotations$Expert.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Annotations$Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Annotations$Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Annotations$Worker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Annotations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Car.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo1$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo1$_main_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo2$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo3$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo3$_main_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo3$_main_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo3$_main_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo4$_copyFile_closure2$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo4$_copyFile_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo4$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo5$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo5$_main_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo8$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Demo8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Elephant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Man.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/TakeHelp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/Woman.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/thread/Sleep$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/thread/Sleep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/thread/Sleep2$_playWithSleep_closure1$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/thread/Sleep2$_playWithSleep_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/basis/thread/Sleep2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/ClosureWithTwoParameter$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/ClosureWithTwoParameter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/Equipment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/ReadWriteFile$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/ReadWriteFile$_main_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/ReadWriteFile$_main_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/ReadWriteFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/Simulate$_main_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/Simulate$_main_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/groovy-demo/closure/Simulate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Annotations.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Car.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo1.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo2.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo3.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo4.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo5.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo6.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo7.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Demo8.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/Man.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/thread/Sleep.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/basis/thread/Sleep2.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/closure/ClosureWithTwoParameter.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/closure/ReadWriteFile.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/groovy/closure/Simulate.groovy" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +93,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sleep.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sleep.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/groovy/basis/thread/Sleep.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="104">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sleep2.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sleep2.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/groovy/basis/thread/Sleep2.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="137">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -712,15 +787,15 @@
       <workItem from="1484901731864" duration="6487000" />
       <workItem from="1485049434099" duration="13326000" />
       <workItem from="1485079848354" duration="4239000" />
-      <workItem from="1485139513474" duration="6735000" />
+      <workItem from="1485139513474" duration="7456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85600000" />
+    <option name="totallyTimeSpent" value="86321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -745,7 +820,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.516129" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" x="538" y="58" width="289" height="612" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51551855" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" x="538" y="58" width="289" height="612" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -850,6 +925,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#114#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -857,6 +935,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#14#78#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -906,6 +987,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#114#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -913,6 +997,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#14#78#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1019,6 +1106,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#50#114#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1061,6 +1151,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#14#78#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1150,18 +1243,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groovy/basis/thread/Sleep.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/basis/thread/Sleep2.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="137">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groovy/basis/thread/Sleep2.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/basis/thread/Sleep.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="104">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding />
         </state>
       </provider>
