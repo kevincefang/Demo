@@ -21,6 +21,9 @@ class Sleep2 {
         }
         thread.interrupt()
         thread.join()
+
+
+
     }
 
     static void main(def args){
