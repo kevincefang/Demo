@@ -19,6 +19,9 @@ class Simulate {
     }
 
 
+
+
+
 }
 class Equipment{
     def calculator
