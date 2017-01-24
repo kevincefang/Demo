@@ -13,7 +13,6 @@ class Sleep {
         new Object().sleep(2000)
         def endTime = System.nanoTime()
         println "Thread done in ${(endTime - startTime)/10**9} seconds"
-
     }
 
     static void main(def args){
